@@ -2,8 +2,8 @@ version: 0.2
 
 env:
   variables:
-    IMAGE_REPO_NAME: "your-ecr-repo-name"
-    CONTAINER_NAME: "your-ecs-container-name"
+    IMAGE_REPO_NAME: "myproject"
+    CONTAINER_NAME: "container1"
 
 phases:
   pre_build:
